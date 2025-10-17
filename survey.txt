@@ -1,0 +1,5 @@
+1. 2nd Year Software Engineering
+2. Book, DPL Workshops, Tutoring, Honors Commons
+3. No
+4. Lots of CS classes could benefit from git enforced work
+
